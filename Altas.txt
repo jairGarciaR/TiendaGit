@@ -1,0 +1,3 @@
+producto: sabritas
+descripcion: saladas y delgadas
+precio: $18.00
