@@ -1,0 +1,4 @@
+Producto: barrilito
+descripcion: tamarindo 1lt
+precio anterior: $20.00
+Precio actualizado: $18.00
