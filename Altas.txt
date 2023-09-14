@@ -1,3 +1,8 @@
 producto: sabritas
 descripcion: saladas y delgadas
 precio: $18.00
+
+nuevo producto
+producto: doritos
+descripcion: nachos 65 g
+precio: $18.00
