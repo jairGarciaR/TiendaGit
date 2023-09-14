@@ -1,0 +1,3 @@
+Producto: tostitos
+descripcion: para botanear
+precio: $18.00
