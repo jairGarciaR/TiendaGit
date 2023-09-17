@@ -1,3 +1,4 @@
-Producto: tostitos
-descripcion: para botanear
+Se dio de baja el producto
+producto: gansito
+descripcion: chocolate 25 g
 precio: $18.00
